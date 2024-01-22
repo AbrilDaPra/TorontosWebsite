@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Passion One', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/* NAVBAR */
+.navbar-brand{
+    color: red;
+    font-size: 30px;
+}
+
+.navbar-collapse{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-item{
+    color: white;
+    font-size: 15px;
+    margin: 15px;
+}
+/* 
+font-family: 'Poppins', sans-serif; */
